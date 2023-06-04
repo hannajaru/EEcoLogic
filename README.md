@@ -1,1 +1,1 @@
-# EEcoLogic
+# EcooLogic
